@@ -3,7 +3,10 @@ Demo project
 
 Simple crud example with recaptcha
 
+Clone or download the project
+
 Run "composer install"
+
 Run "npm install""
 
 Edit .env file changing the connection settings
